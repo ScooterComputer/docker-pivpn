@@ -1,4 +1,4 @@
-FROM resin/raspberry-pi2-debian
+FROM resin/raspberry-pi-debian
 
 MAINTAINER InnovativeInventor
 
